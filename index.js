@@ -12,10 +12,17 @@ function loadJsonFile(filePath) {
     }
 }
 
-// Function to save JSON data to a new file with a timestamp
-function saveJsonFile(filePath, data) {
+// Function to save JSON data to a new file with a timestamp in the {basedir}/eternals/ directory
+function saveJsonFile(baseDir, originalFilePath, data) {
     const timestamp = new Date().toISOString().replace(/[:.-]/g, '_');
-    const newFilePath = filePath.replace('.json', `_${timestamp}.json`);
+    const fileName = path.basename(originalFilePath).replace('.json', `_${timestamp}.json`);
+    const newFilePath = path.join(baseDir, 'eternals', fileName);
+
+    // Ensure the 'eternals' directory exists
+    if (!fs.existsSync(path.join(baseDir, 'eternals'))) {
+        fs.mkdirSync(path.join(baseDir, 'eternals'));
+    }
+
     fs.writeFileSync(newFilePath, JSON.stringify(data, null, 2));
     console.log(`Saved manipulated data to ${newFilePath}`);
 }
@@ -68,14 +75,14 @@ function manipulateJsonData(jsonData) {
 }
 
 // Function to process all JSON files in a directory
-function processJsonFiles(directoryPath) {
+function processJsonFiles(baseDir, directoryPath) {
     fs.readdirSync(directoryPath).forEach(file => {
         const filePath = path.join(directoryPath, file);
         if (path.extname(file) === '.json') {
             const jsonData = loadJsonFile(filePath);
             if (jsonData) {
                 const manipulatedData = manipulateJsonData(jsonData);
-                saveJsonFile(filePath, manipulatedData);
+                saveJsonFile(baseDir, filePath, manipulatedData);
             }
         }
     });
@@ -83,5 +90,5 @@ function processJsonFiles(directoryPath) {
 
 // Example usage
 const baseDir = process.cwd();
-const jsonDirectoryPath = path.join(baseDir, 'Uniwaves AUTOTP 6-29-2024 V1.1/V1.02-V1.1');
-processJsonFiles(jsonDirectoryPath);
+const jsonDirectoryPath = path.join(baseDir, 'uniwaves');
+processJsonFiles(baseDir, jsonDirectoryPath);
