@@ -1,0 +1,303 @@
+{
+  "auto_pickup": true,
+  "auto_pickup_items": [
+    true,
+    true,
+    false,
+    true,
+    true
+  ],
+  "auto_pickup_range": 110,
+  "auto_puzzle": true,
+  "autofarm_events": [
+    {
+      "type": 0,
+      "value": {
+        "X": -39195.52734375,
+        "Y": -29913.34765625,
+        "Z": 21647.26953125
+      },
+      "name": "VP : Desorock Highlands (GJD-6)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -109333.9375,
+        "Y": 44963.41796875,
+        "Z": 6220.55078125
+      },
+      "name": "VP : Central Plains (GJD-9)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -131402.015625,
+        "Y": 63170.171875,
+        "Z": 10246.4833984375
+      },
+      "name": "VP : Gorges of Spirits (GJD-1)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -66215.40625,
+        "Y": 80669.4296875,
+        "Z": 4600.10986328125
+      },
+      "name": "VP : Central Plains (GJD-8)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -13701.7373046875,
+        "Y": 180594.15625,
+        "Z": 16240.2978515625
+      },
+      "name": "VP : Wuming Bay (GJD-3)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -36082.828125,
+        "Y": 203368.40625,
+        "Z": 8431.6513671875
+      },
+      "name": "VP : Tiger's Maw (GJD-2)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -138360.46875,
+        "Y": 188737.234375,
+        "Z": 2546.808349609375
+      },
+      "name": "VP : Port City of Guixu (GJD-7)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 25673.607421875,
+        "Y": 279334.40625,
+        "Z": 3230.201416015625
+      },
+      "name": "VP : Whining Aix's Mire (GJD-5)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 70891.421875,
+        "Y": 258624.109375,
+        "Z": 2564.32373046875
+      },
+      "name": "VP : Whining Aix's Mire (GJD-4)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 12853.9619140625,
+        "Y": -76761.1953125,
+        "Z": 12423.6865234375
+      },
+      "name": "VP : Norfall Pass (GJD-12| Story unlock)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -71733.578125,
+        "Y": 272168.75,
+        "Z": 5979.796875
+      },
+      "name": "VP : Dim Forest (GJD-14 | Quest: When Moonlight Shines"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -77435.7890625,
+        "Y": 291458.40625,
+        "Z": 6646.27099609375
+      },
+      "name": "VP : Dim Forest (GJD-13| Quest: When the Forest is no longer)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -112773.1171875,
+        "Y": 216025.765625,
+        "Z": 4208.3095703125
+      },
+      "name": "VP : Port City of Guixu (GJD-10| Quest: We Promise, We Delive)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 36989.1328125,
+        "Y": 291597.71875,
+        "Z": -225.9642333984375
+      },
+      "name": "VP : Whining Aix's Mire (GJD-11| Quest: Exploration)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    }
+  ],
+  "cutscene_skip": true,
+  "dmg_multiplier_amount": 100,
+  "dmg_multiplier_enabled": true,
+  "dmg_multiplier_keybind": 0,
+  "esp_enabled": false,
+  "esp_hide_completed": false,
+  "esp_selected_items": [
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "fly_enabled": false,
+  "fly_keybind": 0,
+  "god_mode_enabled": true,
+  "god_mode_keybind": 0,
+  "horizontal_fly_speed": 15.2,
+  "infinite_stamina": true,
+  "kill_aura_attacks": 3,
+  "kill_aura_enabled": true,
+  "kill_aura_range": 110,
+  "kill_aura_targets": [
+    true,
+    true,
+    true
+  ],
+  "menu_keybind": 45,
+  "move_speed": 100,
+  "move_speed_enabled": true,
+  "no_clip": false,
+  "no_fall": false,
+  "no_skill_cooldown": true,
+  "unlock_fps": false,
+  "vertical_fly_speed": 15.2
+}

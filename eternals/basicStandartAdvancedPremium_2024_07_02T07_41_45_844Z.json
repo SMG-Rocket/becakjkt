@@ -1,0 +1,9807 @@
+{
+  "auto_pickup": true,
+  "auto_pickup_items": [
+    true,
+    true,
+    false,
+    true,
+    true
+  ],
+  "auto_pickup_range": 110,
+  "auto_puzzle": true,
+  "autofarm_events": [
+    {
+      "type": 0,
+      "value": {
+        "X": 95181,
+        "Y": -89426,
+        "Z": 24
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 91298,
+        "Y": -88883,
+        "Z": -3
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 91798,
+        "Y": -97135,
+        "Z": 14638
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 87398,
+        "Y": -93286,
+        "Z": 317
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 84049,
+        "Y": -98411,
+        "Z": 1575
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 83403,
+        "Y": -98999,
+        "Z": 95
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 73212,
+        "Y": -102223,
+        "Z": 154
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 72815,
+        "Y": -84944,
+        "Z": 9294
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 62946,
+        "Y": -90130,
+        "Z": 2792
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 46769,
+        "Y": -110096,
+        "Z": 379
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 54538,
+        "Y": -115049,
+        "Z": 977
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 53840,
+        "Y": -115773,
+        "Z": 2009
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 67437,
+        "Y": -116996,
+        "Z": 2238
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 70837,
+        "Y": -116883,
+        "Z": 514
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 52302,
+        "Y": -124422,
+        "Z": 1426
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 49424,
+        "Y": -127927,
+        "Z": 3059
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 48125,
+        "Y": -127389,
+        "Z": 2126
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 37774,
+        "Y": -101948,
+        "Z": 18
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 48590,
+        "Y": -79889,
+        "Z": 180
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 60045,
+        "Y": -74769,
+        "Z": 104
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 60932,
+        "Y": -62323,
+        "Z": 2223
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 48393,
+        "Y": -68181,
+        "Z": -2
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 55259,
+        "Y": -53602,
+        "Z": 25
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 39994,
+        "Y": -61564,
+        "Z": 968
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 28689,
+        "Y": -67839,
+        "Z": 3730
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 26030,
+        "Y": -73410,
+        "Z": 6410
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 28544,
+        "Y": -63826,
+        "Z": 2958
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 23083,
+        "Y": -64776,
+        "Z": 7409
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 17537,
+        "Y": -61715,
+        "Z": 12747
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 7594,
+        "Y": -81045,
+        "Z": 7767
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 9552,
+        "Y": -73940,
+        "Z": 12975
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -23920,
+        "Y": -77793,
+        "Z": 23933
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -20607,
+        "Y": -74566,
+        "Z": 23748
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -17918,
+        "Y": -68815,
+        "Z": 22841
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -20980,
+        "Y": -66740,
+        "Z": 34697
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -25320,
+        "Y": -69908,
+        "Z": 33743
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -29530,
+        "Y": -65744,
+        "Z": 41082
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -25667,
+        "Y": -60405,
+        "Z": 21441
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -52112,
+        "Y": -61626,
+        "Z": 36676
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -55955,
+        "Y": -47706,
+        "Z": 34526
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -48254,
+        "Y": -48382,
+        "Z": 37258
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -48285,
+        "Y": -48185,
+        "Z": 37097
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -18315,
+        "Y": -52547,
+        "Z": 20871
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -16756,
+        "Y": -43391,
+        "Z": 24718
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -7832,
+        "Y": -57755,
+        "Z": 20423
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -6880,
+        "Y": -56247,
+        "Z": 20459
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -5441,
+        "Y": -50673,
+        "Z": 20972
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -5515,
+        "Y": -45035,
+        "Z": 23005
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 14146,
+        "Y": -49055,
+        "Z": 14487
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 15835,
+        "Y": -47343,
+        "Z": 13480
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -2673,
+        "Y": -42604,
+        "Z": 20540
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 4252,
+        "Y": -39144,
+        "Z": 19603
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 10353,
+        "Y": -39542,
+        "Z": 15630
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 10848,
+        "Y": -38588,
+        "Z": 15231
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 21481,
+        "Y": -36162,
+        "Z": 8771
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 41192,
+        "Y": -30450,
+        "Z": 8361
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 29165,
+        "Y": -32326,
+        "Z": 5906
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 14257,
+        "Y": -31053,
+        "Z": 15642
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 1641,
+        "Y": -35903,
+        "Z": 21691
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 27213,
+        "Y": -23697,
+        "Z": 3512
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 43053,
+        "Y": -14364,
+        "Z": 126
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 37368,
+        "Y": -10639,
+        "Z": 173
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 31789,
+        "Y": -15356,
+        "Z": 26
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 15250,
+        "Y": -21644,
+        "Z": 3229
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 14978,
+        "Y": -20504,
+        "Z": 660
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 15229,
+        "Y": -18486,
+        "Z": 621
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 17015,
+        "Y": -16985,
+        "Z": 2752
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -913,
+        "Y": -27101,
+        "Z": 23791
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -13069,
+        "Y": -27180,
+        "Z": 21139
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -16789,
+        "Y": -26973,
+        "Z": 21478
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 3857,
+        "Y": -15596,
+        "Z": 14752
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 12760,
+        "Y": -9429,
+        "Z": -1
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 9763,
+        "Y": -5820,
+        "Z": 76
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 4527,
+        "Y": -6450,
+        "Z": 9733
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 405,
+        "Y": -12880,
+        "Z": 11152
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -52414,
+        "Y": -9233,
+        "Z": 24061
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -47537,
+        "Y": -8737,
+        "Z": 19131
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -47504,
+        "Y": 3428,
+        "Z": 18942
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -56259,
+        "Y": 3266,
+        "Z": 14051
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -66372,
+        "Y": 6651,
+        "Z": 18138
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -36368,
+        "Y": 2166,
+        "Z": 18176
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -29878,
+        "Y": 8539,
+        "Z": 12751
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -26018,
+        "Y": 18548,
+        "Z": 10815
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -3991,
+        "Y": 14301,
+        "Z": 287
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -6531,
+        "Y": 26631,
+        "Z": 21
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -9155,
+        "Y": 25934,
+        "Z": 759
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -69092,
+        "Y": 17985,
+        "Z": 10424
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -72940,
+        "Y": 16650,
+        "Z": 10810
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -93153,
+        "Y": 15141,
+        "Z": 10520
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -92675,
+        "Y": 15466,
+        "Z": 10502
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -94333,
+        "Y": 16355,
+        "Z": 7732
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -100868,
+        "Y": 21795,
+        "Z": 7741
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -101772,
+        "Y": 26560,
+        "Z": 8807
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -96958,
+        "Y": 29740,
+        "Z": 7713
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -90329,
+        "Y": 22671,
+        "Z": 7179
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -89276,
+        "Y": 27827,
+        "Z": 10048
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -46632,
+        "Y": 22720,
+        "Z": 10412
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -42813,
+        "Y": 25232,
+        "Z": 9103
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -32436,
+        "Y": 29038,
+        "Z": 6775
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -31061,
+        "Y": 31391,
+        "Z": 6944
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -31377,
+        "Y": 33153,
+        "Z": 4948
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -37247,
+        "Y": 34243,
+        "Z": 6685
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -36271,
+        "Y": 35293,
+        "Z": 5954
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -44588,
+        "Y": 30464,
+        "Z": 7114
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -63545,
+        "Y": 31955,
+        "Z": 10157
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -30345,
+        "Y": 38682,
+        "Z": 5265
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -45391,
+        "Y": 42202,
+        "Z": 5160
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -41347,
+        "Y": 45668,
+        "Z": 5927
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -83298,
+        "Y": 38436,
+        "Z": 7585
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -74411,
+        "Y": 40448,
+        "Z": 3978
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -81901,
+        "Y": 43896,
+        "Z": 7160
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -95154,
+        "Y": 38562,
+        "Z": 7877
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -94997,
+        "Y": 42240,
+        "Z": 6115
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -91990,
+        "Y": 43092,
+        "Z": 8829
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -110545,
+        "Y": 33350,
+        "Z": 6094
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -104434,
+        "Y": 35483,
+        "Z": 5837
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -61580,
+        "Y": 42960,
+        "Z": 7340
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -62530,
+        "Y": 43580,
+        "Z": 7340
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -66860,
+        "Y": 46412,
+        "Z": 8757
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -58837,
+        "Y": 47197,
+        "Z": 7353
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -71987,
+        "Y": 50693,
+        "Z": 5503
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -66765,
+        "Y": 53923,
+        "Z": 5732
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -2279,
+        "Y": 47224,
+        "Z": 7061
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -4625,
+        "Y": 48520,
+        "Z": 2121
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 16177,
+        "Y": 59896,
+        "Z": 54
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 9249,
+        "Y": 59694,
+        "Z": 2029
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 8444,
+        "Y": 61517,
+        "Z": 173
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 2966,
+        "Y": 59585,
+        "Z": 182
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -19786,
+        "Y": 48701,
+        "Z": 4207
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -21578,
+        "Y": 53080,
+        "Z": 3988
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -24848,
+        "Y": 53699,
+        "Z": 3781
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -32378,
+        "Y": 57281,
+        "Z": 7824
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -28007,
+        "Y": 58714,
+        "Z": 5327
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -21402,
+        "Y": 59464,
+        "Z": 2753
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -14392,
+        "Y": 63349,
+        "Z": 164
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -38937,
+        "Y": 52176,
+        "Z": 4599
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -41087,
+        "Y": 54668,
+        "Z": 5272
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -39774,
+        "Y": 67412,
+        "Z": 3023
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -117488,
+        "Y": 34333,
+        "Z": 6169
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -118761,
+        "Y": 36142,
+        "Z": 11791
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -124445,
+        "Y": 35071,
+        "Z": 15066
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -128599,
+        "Y": 37805,
+        "Z": 14752
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -136575,
+        "Y": 37695,
+        "Z": 15619
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -131783,
+        "Y": 32415,
+        "Z": 14790
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -134973,
+        "Y": 46471,
+        "Z": 16387
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -132803,
+        "Y": 47940,
+        "Z": 16105
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -136377,
+        "Y": 48184,
+        "Z": 16389
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -136064,
+        "Y": 50037,
+        "Z": 17827
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -124066,
+        "Y": 44414,
+        "Z": 12966
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -125105,
+        "Y": 47392,
+        "Z": 13426
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -126463,
+        "Y": 47724,
+        "Z": 13725
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -134782,
+        "Y": 48929,
+        "Z": 16951
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -131528,
+        "Y": 51404,
+        "Z": 16390
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -129646,
+        "Y": 49847,
+        "Z": 16464
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -131664,
+        "Y": 54199,
+        "Z": 16726
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -135561,
+        "Y": 55063,
+        "Z": 18462
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -130948,
+        "Y": 58038,
+        "Z": 16250
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -131029,
+        "Y": 60137,
+        "Z": 11115
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -140422,
+        "Y": 64311,
+        "Z": 10352
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -137591,
+        "Y": 65105,
+        "Z": 16547
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -126497,
+        "Y": 58824,
+        "Z": 14577
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -125847,
+        "Y": 59387,
+        "Z": 14548
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -119623,
+        "Y": 54791,
+        "Z": 12102
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -119063,
+        "Y": 55028,
+        "Z": 13009
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -116224,
+        "Y": 56248,
+        "Z": 10883
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -117928,
+        "Y": 58949,
+        "Z": 12364
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -125270,
+        "Y": 66205,
+        "Z": 10837
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -129429,
+        "Y": 68123,
+        "Z": 13083
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -130726,
+        "Y": 70949,
+        "Z": 9288
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -132920,
+        "Y": 73882,
+        "Z": 8632
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -123824,
+        "Y": 70050,
+        "Z": 11229
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -125370,
+        "Y": 71276,
+        "Z": 13778
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -119840,
+        "Y": 70027,
+        "Z": 15898
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -102914,
+        "Y": 71717,
+        "Z": 8618
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -141824,
+        "Y": 84363,
+        "Z": 4358
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -124619,
+        "Y": 87184,
+        "Z": 3998
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -115065,
+        "Y": 90150,
+        "Z": 5981
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -98584,
+        "Y": 51404,
+        "Z": 5470
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -96376,
+        "Y": 53511,
+        "Z": 6947
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -86055,
+        "Y": 61783,
+        "Z": 6489
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -81056,
+        "Y": 65101,
+        "Z": 6661
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -69038,
+        "Y": 62546,
+        "Z": 5274
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -73524,
+        "Y": 61855,
+        "Z": 5710
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -65222,
+        "Y": 70643,
+        "Z": 5442
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -66143,
+        "Y": 79294,
+        "Z": 1039
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -54621,
+        "Y": 56337,
+        "Z": 12911
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -51921,
+        "Y": 58194,
+        "Z": 5995
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -40824,
+        "Y": 80923,
+        "Z": 2529
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -80830,
+        "Y": 65014,
+        "Z": 6659
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -107394,
+        "Y": 128565,
+        "Z": 4205
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -101670,
+        "Y": 99367,
+        "Z": 7142
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -93570,
+        "Y": 98688,
+        "Z": 7390
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -105285,
+        "Y": 107388,
+        "Z": 9121
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -106203,
+        "Y": 119199,
+        "Z": 7839
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -86570,
+        "Y": 97155,
+        "Z": 6039
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -97063,
+        "Y": 106795,
+        "Z": 6874
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -76129,
+        "Y": 99975,
+        "Z": 529
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -79398,
+        "Y": 94943,
+        "Z": 4274
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -85379,
+        "Y": 105393,
+        "Z": 3152
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -85286,
+        "Y": 107955,
+        "Z": 7623
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -83247,
+        "Y": 110711,
+        "Z": 8551
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -87707,
+        "Y": 112334,
+        "Z": 4263
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -81054,
+        "Y": 120438,
+        "Z": 5983
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -85808,
+        "Y": 124728,
+        "Z": 8031
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -127914,
+        "Y": 61204,
+        "Z": 10441
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -123194,
+        "Y": 66976,
+        "Z": 13680
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 44477,
+        "Y": 74172,
+        "Z": 20
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 42473,
+        "Y": 75908,
+        "Z": 14
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 46588,
+        "Y": 84786,
+        "Z": 6856
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 27110,
+        "Y": 82132,
+        "Z": 1964
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -1446,
+        "Y": 69634,
+        "Z": 37
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -2921,
+        "Y": 69789,
+        "Z": 14
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -2510,
+        "Y": 70557,
+        "Z": 12
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -2614,
+        "Y": 71627,
+        "Z": 147
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -238,
+        "Y": 70458,
+        "Z": 42
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 79,
+        "Y": 71128,
+        "Z": 41
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 262,
+        "Y": 71754,
+        "Z": 154
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 36,
+        "Y": 72464,
+        "Z": 146
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -2303,
+        "Y": 71253,
+        "Z": 45
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -27785,
+        "Y": 74368,
+        "Z": 2224
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -10175,
+        "Y": 80659,
+        "Z": 1666
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -2342,
+        "Y": 80348,
+        "Z": 893
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -1743,
+        "Y": 71065,
+        "Z": 40
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -46359,
+        "Y": 87899,
+        "Z": 447
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -39169,
+        "Y": 87350,
+        "Z": 443
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -32192,
+        "Y": 96067,
+        "Z": 2184
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -32035,
+        "Y": 98465,
+        "Z": 3740
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -31654,
+        "Y": 99735,
+        "Z": 2687
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -33146,
+        "Y": 96576,
+        "Z": 7336
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -41183,
+        "Y": 97633,
+        "Z": 2480
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -39771,
+        "Y": 99321,
+        "Z": 2473
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -36851,
+        "Y": 103041,
+        "Z": 2327
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -36034,
+        "Y": 103875,
+        "Z": 428
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -43313,
+        "Y": 106662,
+        "Z": 1486
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -43790,
+        "Y": 107066,
+        "Z": 1486
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -30238,
+        "Y": 110175,
+        "Z": 972
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -24091,
+        "Y": 116126,
+        "Z": 11501
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 10422,
+        "Y": 119496,
+        "Z": 227
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -5357,
+        "Y": 117165,
+        "Z": 8791
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -3866,
+        "Y": 123027,
+        "Z": 8388
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -15576,
+        "Y": 108443,
+        "Z": 520
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -23147,
+        "Y": 129080,
+        "Z": 14084
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -17308,
+        "Y": 134164,
+        "Z": 30046
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -11618,
+        "Y": 140689,
+        "Z": 3138
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -25339,
+        "Y": 140787,
+        "Z": 22447
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -38810,
+        "Y": 114928,
+        "Z": 1487
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -47303,
+        "Y": 112469,
+        "Z": 1486
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -43832,
+        "Y": 115973,
+        "Z": 6244
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -40225,
+        "Y": 118136,
+        "Z": 3569
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -47174,
+        "Y": 119131,
+        "Z": 736
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -56060,
+        "Y": 112407,
+        "Z": 1845
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -37870,
+        "Y": 127664,
+        "Z": 11501
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -42104,
+        "Y": 130847,
+        "Z": 3351
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -35123,
+        "Y": 132660,
+        "Z": 10487
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -47094,
+        "Y": 145419,
+        "Z": 4584
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -52268,
+        "Y": 156839,
+        "Z": 2394
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -50904,
+        "Y": 164395,
+        "Z": 977
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -49977,
+        "Y": 168888,
+        "Z": 977
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -8182,
+        "Y": 159111,
+        "Z": 15697
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 13919,
+        "Y": 166295,
+        "Z": 1003
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 9429,
+        "Y": 165734,
+        "Z": 3117
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -10270,
+        "Y": 167780,
+        "Z": 8860
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -20290,
+        "Y": 167690,
+        "Z": -2770
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -28124,
+        "Y": 173124,
+        "Z": -6262
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -13545,
+        "Y": 181410,
+        "Z": 15989
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 4161,
+        "Y": 175256,
+        "Z": 7891
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -4724,
+        "Y": 179371,
+        "Z": 5814
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 4551,
+        "Y": 182612,
+        "Z": 5655
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 20348,
+        "Y": 187907,
+        "Z": 157
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 6661,
+        "Y": 192247,
+        "Z": 3573
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 9179,
+        "Y": 196208,
+        "Z": 2364
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 24708,
+        "Y": 208459,
+        "Z": 98
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 32020,
+        "Y": 213950,
+        "Z": 240
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -974,
+        "Y": 217112,
+        "Z": 4064
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 827,
+        "Y": 216927,
+        "Z": 7104
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 4477,
+        "Y": 215187,
+        "Z": 1670
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 16559,
+        "Y": 219619,
+        "Z": 24
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 27388,
+        "Y": 223287,
+        "Z": 8135
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 9727,
+        "Y": 213876,
+        "Z": 1348
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -11709,
+        "Y": 219984,
+        "Z": 2940
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -19030,
+        "Y": 222260,
+        "Z": 3407
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -24630,
+        "Y": 223455,
+        "Z": 1660
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -32455,
+        "Y": 198983,
+        "Z": 777
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -34735,
+        "Y": 205996,
+        "Z": 6223
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -37334,
+        "Y": 210978,
+        "Z": 1957
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -44499,
+        "Y": 213686,
+        "Z": 4655
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -28878,
+        "Y": 211712,
+        "Z": 3359
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -32636,
+        "Y": 216089,
+        "Z": 2474
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -41347,
+        "Y": 225361,
+        "Z": 5311
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -47425,
+        "Y": 180338,
+        "Z": 66
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -41019,
+        "Y": 186433,
+        "Z": -10942
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -61840,
+        "Y": 176834,
+        "Z": 3987
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -87826,
+        "Y": 169611,
+        "Z": 2017
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -93478,
+        "Y": 176175,
+        "Z": 6161
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -72860,
+        "Y": 172960,
+        "Z": 3320
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -73372,
+        "Y": 181490,
+        "Z": 5397
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -71740,
+        "Y": 187874,
+        "Z": 5781
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -92342,
+        "Y": 181480,
+        "Z": 9632
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -88065,
+        "Y": 189326,
+        "Z": 6295
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -79127,
+        "Y": 194074,
+        "Z": 6889
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -69878,
+        "Y": 196656,
+        "Z": 7695
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -62909,
+        "Y": 197583,
+        "Z": 7346
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -70063,
+        "Y": 201846,
+        "Z": 7654
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -74561,
+        "Y": 205982,
+        "Z": 5307
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -62080,
+        "Y": 205488,
+        "Z": 8180
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -69075,
+        "Y": 211176,
+        "Z": 5973
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -73877,
+        "Y": 212090,
+        "Z": 4962
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -109555,
+        "Y": 170119,
+        "Z": 4971
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -115333,
+        "Y": 172966,
+        "Z": 5547
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -121856,
+        "Y": 173681,
+        "Z": 4361
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -119965,
+        "Y": 176573,
+        "Z": 4270
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -118177,
+        "Y": 179091,
+        "Z": 1609
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -107697,
+        "Y": 150099,
+        "Z": 3542
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -109789,
+        "Y": 153652,
+        "Z": 605
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -106483,
+        "Y": 154908,
+        "Z": 583
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -120284,
+        "Y": 154407,
+        "Z": 507
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -125012,
+        "Y": 156493,
+        "Z": 880
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -128776,
+        "Y": 164893,
+        "Z": 2944
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -137154,
+        "Y": 172909,
+        "Z": 2130
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -147816,
+        "Y": 165817,
+        "Z": 2979
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -158408,
+        "Y": 181420,
+        "Z": 2083
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -125409,
+        "Y": 181681,
+        "Z": 210
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -122621,
+        "Y": 184833,
+        "Z": 71
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -123797,
+        "Y": 189521,
+        "Z": 141
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -130468,
+        "Y": 187520,
+        "Z": 368
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -145032,
+        "Y": 191945,
+        "Z": 56
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -145773,
+        "Y": 192482,
+        "Z": 6903
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -154577,
+        "Y": 195230,
+        "Z": 81
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -156797,
+        "Y": 205419,
+        "Z": 7584
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -154461,
+        "Y": 213630,
+        "Z": 12678
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -136238,
+        "Y": 193437,
+        "Z": 3826
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -139714,
+        "Y": 197977,
+        "Z": 3786
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -134537,
+        "Y": 197274,
+        "Z": 78
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -128206,
+        "Y": 201577,
+        "Z": 166
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -116291,
+        "Y": 192546,
+        "Z": -1229
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -119401,
+        "Y": 199183,
+        "Z": 2285
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -131940,
+        "Y": 214413,
+        "Z": 595
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -131657,
+        "Y": 215403,
+        "Z": 320
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -143318,
+        "Y": 216234,
+        "Z": 13031
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -115352,
+        "Y": 208790,
+        "Z": 409
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -127734,
+        "Y": 216215,
+        "Z": 956
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -133160,
+        "Y": 221880,
+        "Z": 185
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -135153,
+        "Y": 227390,
+        "Z": 4299
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -140468,
+        "Y": 229679,
+        "Z": 162
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -125693,
+        "Y": 225608,
+        "Z": 308
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -127904,
+        "Y": 227392,
+        "Z": 235
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -119560,
+        "Y": 229292,
+        "Z": 356
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -121744,
+        "Y": 230268,
+        "Z": 166
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -120823,
+        "Y": 236348,
+        "Z": 299
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -121121,
+        "Y": 241250,
+        "Z": 955
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -127268,
+        "Y": 246885,
+        "Z": 1672
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -135516,
+        "Y": 243813,
+        "Z": 20
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -129588,
+        "Y": 251892,
+        "Z": 138
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -119274,
+        "Y": 251163,
+        "Z": 1609
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -114416,
+        "Y": 263361,
+        "Z": 2997
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -118892,
+        "Y": 271442,
+        "Z": 113
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -104667,
+        "Y": 265526,
+        "Z": 3650
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -93974,
+        "Y": 277519,
+        "Z": 3356
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -89642,
+        "Y": 277942,
+        "Z": 5892
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -88090,
+        "Y": 280705,
+        "Z": 4532
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -108831,
+        "Y": 249183,
+        "Z": 3709
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -103465,
+        "Y": 253026,
+        "Z": 6561
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -99868,
+        "Y": 251935,
+        "Z": 6355
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -110053,
+        "Y": 235851,
+        "Z": 4325
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -109904,
+        "Y": 238446,
+        "Z": 2167
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -103776,
+        "Y": 221036,
+        "Z": 1989
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -100143,
+        "Y": 231852,
+        "Z": 3328
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -99717,
+        "Y": 233654,
+        "Z": 3270
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -97130,
+        "Y": 236943,
+        "Z": 4554
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -91503,
+        "Y": 235875,
+        "Z": 4331
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -88647,
+        "Y": 234452,
+        "Z": 4737
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -104024,
+        "Y": 193564,
+        "Z": 7069
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -103618,
+        "Y": 198944,
+        "Z": 2935
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -100573,
+        "Y": 201746,
+        "Z": 5135
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -101640,
+        "Y": 205699,
+        "Z": 1870
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -98812,
+        "Y": 207050,
+        "Z": 3334
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -95185,
+        "Y": 214041,
+        "Z": 5275
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -90368,
+        "Y": 216024,
+        "Z": 2849
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -98875,
+        "Y": 188273,
+        "Z": 9952
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -89333,
+        "Y": 189312,
+        "Z": 6297
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -85570,
+        "Y": 212884,
+        "Z": 3153
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -82244,
+        "Y": 217344,
+        "Z": 4453
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -77688,
+        "Y": 218979,
+        "Z": 4484
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -77825,
+        "Y": 223389,
+        "Z": 4509
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -73304,
+        "Y": 223370,
+        "Z": -219
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -60918,
+        "Y": 193589,
+        "Z": 7293
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -60565,
+        "Y": 217482,
+        "Z": 13737
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -58419,
+        "Y": 219804,
+        "Z": 9646
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -50672,
+        "Y": 221099,
+        "Z": 8584
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -56491,
+        "Y": 233710,
+        "Z": 10486
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -72934,
+        "Y": 241944,
+        "Z": 9556
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -63073,
+        "Y": 242499,
+        "Z": 7643
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -66796,
+        "Y": 245291,
+        "Z": 5150
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -55474,
+        "Y": 242251,
+        "Z": 4793
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -63329,
+        "Y": 248195,
+        "Z": 15947
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -64049,
+        "Y": 251867,
+        "Z": 16915
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -45062,
+        "Y": 247381,
+        "Z": 11609
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -53159,
+        "Y": 250316,
+        "Z": 4577
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -88659,
+        "Y": 258407,
+        "Z": 7438
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -82414,
+        "Y": 258193,
+        "Z": 9471
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -110095,
+        "Y": 258264,
+        "Z": 4327
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -82186,
+        "Y": 271189,
+        "Z": 8237
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -68459,
+        "Y": 269026,
+        "Z": 6248
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -31616,
+        "Y": 237295,
+        "Z": 7716
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -21075,
+        "Y": 241998,
+        "Z": 2670
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -42803,
+        "Y": 260659,
+        "Z": 12981
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -33668,
+        "Y": 263398,
+        "Z": 13870
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -20862,
+        "Y": 265826,
+        "Z": -316
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -22629,
+        "Y": 266747,
+        "Z": 1322
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -21962,
+        "Y": 267044,
+        "Z": 1332
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -24443,
+        "Y": 268477,
+        "Z": 1834
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -22408,
+        "Y": 272121,
+        "Z": 4961
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -2598,
+        "Y": 266851,
+        "Z": 4118
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -38040,
+        "Y": 273983,
+        "Z": 8068
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -27019,
+        "Y": 279116,
+        "Z": 5882
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -60243,
+        "Y": 277810,
+        "Z": 6764
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -56898,
+        "Y": 281291,
+        "Z": 6705
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -67392,
+        "Y": 285692,
+        "Z": 5105
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -58656,
+        "Y": 291937,
+        "Z": 4473
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -43404,
+        "Y": 284592,
+        "Z": 4527
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -29097,
+        "Y": 291856,
+        "Z": 5017
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 13150,
+        "Y": 256250,
+        "Z": 3175
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -17179,
+        "Y": 290042,
+        "Z": 5516
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -14277,
+        "Y": 298855,
+        "Z": 5467
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -19968,
+        "Y": 304976,
+        "Z": 6988
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -26243,
+        "Y": 300477,
+        "Z": 4472
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -70183,
+        "Y": 297701,
+        "Z": 5278
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -75839,
+        "Y": 287193,
+        "Z": 4767
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -76673,
+        "Y": 308551,
+        "Z": 725
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -62081,
+        "Y": 304675,
+        "Z": 4633
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -62913,
+        "Y": 311357,
+        "Z": 5855
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -63771,
+        "Y": 315328,
+        "Z": 1902
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -56850,
+        "Y": 305448,
+        "Z": 4489
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -49777,
+        "Y": 308691,
+        "Z": 5835
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -41324,
+        "Y": 294495,
+        "Z": 12720
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -43643,
+        "Y": 298884,
+        "Z": 12675
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -39587,
+        "Y": 311353,
+        "Z": 4505
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -41354,
+        "Y": 319622,
+        "Z": 5183
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -41633,
+        "Y": 319622,
+        "Z": 5167
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -42930,
+        "Y": 321544,
+        "Z": 1884
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -43639,
+        "Y": 329005,
+        "Z": 6002
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -36897,
+        "Y": 324874,
+        "Z": 1696
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -40712,
+        "Y": 334955,
+        "Z": 171
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -20809,
+        "Y": 329214,
+        "Z": 237
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -4418,
+        "Y": 306896,
+        "Z": 5349
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -10420,
+        "Y": 314249,
+        "Z": 5137
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -6846,
+        "Y": 319203,
+        "Z": 1959
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 11516,
+        "Y": 319551,
+        "Z": 18
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 16852,
+        "Y": 315057,
+        "Z": 2649
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 25467,
+        "Y": 316086,
+        "Z": 2640
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 3595,
+        "Y": 303923,
+        "Z": 5905
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 11366,
+        "Y": 307788,
+        "Z": 7757
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 4247,
+        "Y": 295426,
+        "Z": 4168
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 6131,
+        "Y": 299449,
+        "Z": 3218
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 16093,
+        "Y": 196036,
+        "Z": 166
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -4110,
+        "Y": 203424,
+        "Z": 7408
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -21502,
+        "Y": 198046,
+        "Z": 12307
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 15939,
+        "Y": 270578,
+        "Z": 2946
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 20956,
+        "Y": 266055,
+        "Z": 2894
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 22471,
+        "Y": 266406,
+        "Z": 4534
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 23030,
+        "Y": 285604,
+        "Z": 3979
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 32088,
+        "Y": 269622,
+        "Z": 4453
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 28606,
+        "Y": 274142,
+        "Z": 3005
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 13601,
+        "Y": 294505,
+        "Z": 4096
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 29829,
+        "Y": 287385,
+        "Z": -72
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 25846,
+        "Y": 289015,
+        "Z": 861
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 27657,
+        "Y": 292724,
+        "Z": 1709
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 27056,
+        "Y": 294876,
+        "Z": 7514
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 30097,
+        "Y": 301720,
+        "Z": -494
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 33654,
+        "Y": 310302,
+        "Z": 4112
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 41858,
+        "Y": 308445,
+        "Z": -1132
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 47845,
+        "Y": 312938,
+        "Z": -1146
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 38374,
+        "Y": 260038,
+        "Z": 52
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 39503,
+        "Y": 274320,
+        "Z": 3648
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 35384,
+        "Y": 278299,
+        "Z": 1143
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 39674,
+        "Y": 283726,
+        "Z": 1604
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 47038,
+        "Y": 284597,
+        "Z": 1347
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 43779,
+        "Y": 291489,
+        "Z": -899
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 46244,
+        "Y": 300740,
+        "Z": -1086
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 50425,
+        "Y": 264930,
+        "Z": 5835
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 50872,
+        "Y": 272457,
+        "Z": 4672
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 51381,
+        "Y": 272846,
+        "Z": 6912
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 55741,
+        "Y": 281135,
+        "Z": 4475
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 57370,
+        "Y": 288520,
+        "Z": -2322
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 60881,
+        "Y": 292837,
+        "Z": 149
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 58013,
+        "Y": 298055,
+        "Z": -1133
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 57466,
+        "Y": 312606,
+        "Z": -776
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 54859,
+        "Y": 318350,
+        "Z": -1001
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 47759,
+        "Y": 328322,
+        "Z": -1142
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 41988,
+        "Y": 331206,
+        "Z": 4455
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 42402,
+        "Y": 335693,
+        "Z": 604
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 45146,
+        "Y": 339929,
+        "Z": 2776
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 56371,
+        "Y": 327116,
+        "Z": 2153
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 54887,
+        "Y": 334754,
+        "Z": 7674
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 57403,
+        "Y": 336604,
+        "Z": 5117
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 67350,
+        "Y": 312064,
+        "Z": 826
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 64726,
+        "Y": 322968,
+        "Z": 3433
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 61376,
+        "Y": 323891,
+        "Z": 3469
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 71879,
+        "Y": 309954,
+        "Z": 775
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 71622,
+        "Y": 335210,
+        "Z": 4246
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 72148,
+        "Y": 336986,
+        "Z": 7997
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 80705,
+        "Y": 336960,
+        "Z": 9477
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 86202,
+        "Y": 335397,
+        "Z": 2020
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 87081,
+        "Y": 320981,
+        "Z": -321
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 108779,
+        "Y": 280449,
+        "Z": 520
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 109072,
+        "Y": 285710,
+        "Z": 3967
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 99845,
+        "Y": 299525,
+        "Z": 5175
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 92635,
+        "Y": 301330,
+        "Z": 4822
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 89938,
+        "Y": 288184,
+        "Z": 4930
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 86331,
+        "Y": 295584,
+        "Z": 4886
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 85290,
+        "Y": 298692,
+        "Z": 4824
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 74031,
+        "Y": 296925,
+        "Z": 2840
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 77250,
+        "Y": 296565,
+        "Z": 10402
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 79518,
+        "Y": 296008,
+        "Z": 2986
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 78126,
+        "Y": 301560,
+        "Z": 11710
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 77823,
+        "Y": 302688,
+        "Z": 11702
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 56812,
+        "Y": 264429,
+        "Z": 4785
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 63773,
+        "Y": 246295,
+        "Z": 2311
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 62275,
+        "Y": 253254,
+        "Z": 5678
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 61830,
+        "Y": 258856,
+        "Z": 2633
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 68772,
+        "Y": 255565,
+        "Z": 2420
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 70469,
+        "Y": 256902,
+        "Z": 2317
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 68690,
+        "Y": 258615,
+        "Z": 5457
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 68094,
+        "Y": 263755,
+        "Z": 5295
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 90510,
+        "Y": 242664,
+        "Z": 815
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 91577,
+        "Y": 251049,
+        "Z": 12056
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 90279,
+        "Y": 250687,
+        "Z": 7480
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 77168,
+        "Y": 254922,
+        "Z": 4915
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 73947,
+        "Y": 258296,
+        "Z": 8604
+      },
+      "name": "Premium Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 77394,
+        "Y": 260976,
+        "Z": 5614
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 72276,
+        "Y": 263466,
+        "Z": 3943
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 72782,
+        "Y": 263654,
+        "Z": 3886
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 72181,
+        "Y": 268510,
+        "Z": 4091
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 101607,
+        "Y": 252782,
+        "Z": 4106
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 96705,
+        "Y": 253882,
+        "Z": 7269
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 97856,
+        "Y": 255783,
+        "Z": 5208
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 92443,
+        "Y": 259386,
+        "Z": 7080
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 92589,
+        "Y": 260924,
+        "Z": 4367
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 90090,
+        "Y": 259208,
+        "Z": 6235
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 85749,
+        "Y": 259429,
+        "Z": 7689
+      },
+      "name": "Basic Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 74255,
+        "Y": 289480,
+        "Z": 8740
+      },
+      "name": "Standard Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 91913,
+        "Y": 332736,
+        "Z": 242
+      },
+      "name": "Advanced Supply Chest"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    }
+  ],
+  "cutscene_skip": true,
+  "dmg_multiplier_amount": 100,
+  "dmg_multiplier_enabled": true,
+  "dmg_multiplier_keybind": 0,
+  "esp_enabled": false,
+  "esp_hide_completed": false,
+  "esp_selected_items": [
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "fly_enabled": false,
+  "fly_keybind": 0,
+  "god_mode_enabled": true,
+  "god_mode_keybind": 0,
+  "horizontal_fly_speed": 15.2,
+  "infinite_stamina": true,
+  "kill_aura_attacks": 3,
+  "kill_aura_enabled": true,
+  "kill_aura_range": 110,
+  "kill_aura_targets": [
+    true,
+    true,
+    true
+  ],
+  "menu_keybind": 45,
+  "move_speed": 100,
+  "move_speed_enabled": true,
+  "no_clip": false,
+  "no_fall": false,
+  "no_skill_cooldown": true,
+  "unlock_fps": false,
+  "vertical_fly_speed": 15.2
+}

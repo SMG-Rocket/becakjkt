@@ -1,0 +1,2319 @@
+{
+  "auto_pickup": true,
+  "auto_pickup_items": [
+    true,
+    true,
+    false,
+    true,
+    true
+  ],
+  "auto_pickup_range": 110,
+  "auto_puzzle": true,
+  "autofarm_events": [
+    {
+      "type": 0,
+      "value": {
+        "X": 83676,
+        "Y": -102119,
+        "Z": 2000
+      },
+      "name": "SC: Norfall Barrens (SX-125)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 95550,
+        "Y": -96596,
+        "Z": 3000
+      },
+      "name": "SC: Norfall Barrens (SX-126)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 70515,
+        "Y": -86192,
+        "Z": 8000
+      },
+      "name": "SC: Norfall Barrens (SX-127)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 66774,
+        "Y": -104311,
+        "Z": 10100
+      },
+      "name": "SC: Norfall Barrens (SX-121)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 58108,
+        "Y": -117297,
+        "Z": 6650
+      },
+      "name": "SC: Norfall Barrens (SX-122)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 47629,
+        "Y": -110138,
+        "Z": 2850
+      },
+      "name": "SC: Norfall Barrens (SX-120)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 48059,
+        "Y": -127734,
+        "Z": 2230
+      },
+      "name": "SC: Norfall Barrens (SX-123)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 77073,
+        "Y": -120602,
+        "Z": 2570
+      },
+      "name": "SC: Norfall Barrens (SX-124)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 23582,
+        "Y": -81180,
+        "Z": 8900
+      },
+      "name": "SC: Norfall Barrens (SX-117)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 7368,
+        "Y": -77982,
+        "Z": 11000
+      },
+      "name": "SC: Norfall Barrens (SX-115)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 12377,
+        "Y": -71667,
+        "Z": 17000
+      },
+      "name": "SC: Norfall Barrens (SX-116)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -6018,
+        "Y": -64805,
+        "Z": 23700
+      },
+      "name": "SC: Desorock Highlands (SX-6)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -33036,
+        "Y": -45105,
+        "Z": 24040
+      },
+      "name": "SC: Desorock Highlands (SX-7)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -9620,
+        "Y": 28359,
+        "Z": 10000
+      },
+      "name": "SC: Central Plains (SX-36)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -31416,
+        "Y": 18724,
+        "Z": 17000
+      },
+      "name": "SC: Central Plains (SX-35)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -44671,
+        "Y": 5183,
+        "Z": 20297
+      },
+      "name": "SC: Desorock Highlands (SX-13)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -68854,
+        "Y": 12452,
+        "Z": 15000
+      },
+      "name": "SC: Central Plains (SX-34)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -89902,
+        "Y": 24728,
+        "Z": 16000
+      },
+      "name": "SC: Central Plains (SX-38)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -94509,
+        "Y": 17118,
+        "Z": 16000
+      },
+      "name": "SC: Central Plains (SX-39)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -81980,
+        "Y": 54666,
+        "Z": 12800
+      },
+      "name": "SC: Central Plains (SX-40)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -58938,
+        "Y": 59247,
+        "Z": 8000
+      },
+      "name": "SC: Central Plains (SX-118)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -54774,
+        "Y": 65787,
+        "Z": 13000
+      },
+      "name": "SC: Central Plains (SX-42)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -55481,
+        "Y": 56693,
+        "Z": 20000
+      },
+      "name": "SC: Central Plains (SX-41)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -52374,
+        "Y": 38618,
+        "Z": 18000
+      },
+      "name": "SC: Central Plains (SX-55)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -48970,
+        "Y": 30316,
+        "Z": 9500
+      },
+      "name": "SC: Central Plains (SX-37)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -40846,
+        "Y": 57639,
+        "Z": 7000
+      },
+      "name": "SC: Central Plains (SX-33)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -26111,
+        "Y": 75561,
+        "Z": 8000
+      },
+      "name": "SC: Central Plains (SX-45)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -33278,
+        "Y": 96701,
+        "Z": 7300
+      },
+      "name": "SC: Jinzhou (SX-25)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -31744,
+        "Y": 109972,
+        "Z": 2600
+      },
+      "name": "SC: Jinzhou (SX-26)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -35780,
+        "Y": 116105,
+        "Z": 3800
+      },
+      "name": "SC: Jinzhou (SX-27)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -50210,
+        "Y": 112874,
+        "Z": 4100
+      },
+      "name": "SC: Jinzhou (SX-28)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -48904,
+        "Y": 100493,
+        "Z": 8065
+      },
+      "name": "SC: Jinzhou  (SX-24)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -57524,
+        "Y": 122630,
+        "Z": 11000
+      },
+      "name": "SC: Jinzhou (SX-29)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -47913,
+        "Y": 132209,
+        "Z": 4000
+      },
+      "name": "SC: Jinzhou (SX-30)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -29507,
+        "Y": 142843,
+        "Z": 14500
+      },
+      "name": "SC: Jinzhou (SX-31)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -19489,
+        "Y": 138330,
+        "Z": 35000
+      },
+      "name": "SC: Jinzhou (SX-32)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -8087,
+        "Y": 159228,
+        "Z": 16000
+      },
+      "name": "SC: Wuming Bay (SX-16)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -4747,
+        "Y": 170224,
+        "Z": 8900
+      },
+      "name": "SC: Wuming Bay (SX-15)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 6938,
+        "Y": 166311,
+        "Z": 7000
+      },
+      "name": "SC: Wuming Bay (SX-17)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 10110,
+        "Y": 205594,
+        "Z": 10000
+      },
+      "name": "SC: Wuming Bay (SX-19)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 18571,
+        "Y": 212924,
+        "Z": 1200
+      },
+      "name": "SC: Wuming Bay (SX-22)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 24119,
+        "Y": 225105,
+        "Z": 16000
+      },
+      "name": "SC: Wuming Bay (SX-23)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 4079,
+        "Y": 243041,
+        "Z": 1500
+      },
+      "name": "SC: Wuming Bay (SX-21)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -9754,
+        "Y": 226270,
+        "Z": 9000
+      },
+      "name": "SC: Wuming Bay (SX-20)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -29523,
+        "Y": 246857,
+        "Z": 9000
+      },
+      "name": "SC: Wuming Bay (SX-104)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -57417,
+        "Y": 248210,
+        "Z": 12400
+      },
+      "name": "SC: Dim Forest (SX-76)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -65366,
+        "Y": 263459,
+        "Z": 13700
+      },
+      "name": "SC: Dim Forest (SX-108)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -71428,
+        "Y": 268922,
+        "Z": 9500
+      },
+      "name": "SC: Dim Forest (SX-77)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -77820,
+        "Y": 253991,
+        "Z": 11200
+      },
+      "name": "SC: Port City of Guixu (SX-75)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -89790,
+        "Y": 258249,
+        "Z": 9000
+      },
+      "name": "SC: Dim Forest (SX-74)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -110835,
+        "Y": 272222,
+        "Z": 3500
+      },
+      "name": "SC: Dim Forest (SX-109)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -91943,
+        "Y": 292325,
+        "Z": 11000
+      },
+      "name": "SC: Dim Forest (SX-110)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -97987,
+        "Y": 297966,
+        "Z": 9000
+      },
+      "name": "SC: Dim Forest (SX-111)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -94512,
+        "Y": 316714,
+        "Z": 8000
+      },
+      "name": "SC: Dim Forest (SX-112)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -67715,
+        "Y": 305652,
+        "Z": 6000
+      },
+      "name": "SC: Dim Forest (SX-113)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -36987,
+        "Y": 324524,
+        "Z": 5000
+      },
+      "name": "SC: Dim Forest (SX-114)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -73,
+        "Y": 318016,
+        "Z": 2200
+      },
+      "name": "SC: Dim Forest (SX-107)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 30024,
+        "Y": 314885,
+        "Z": 10000
+      },
+      "name": "SC: Whining Aix's Mire (SX-91)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 18242,
+        "Y": 334347,
+        "Z": 9000
+      },
+      "name": "SC: Whining Aix's Mire (SX-92)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 47438,
+        "Y": 329716,
+        "Z": 5000
+      },
+      "name": "SC: Whining Aix's Mire (SX-93)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 62269,
+        "Y": 324213,
+        "Z": 5000
+      },
+      "name": "SC: Whining Aix's Mire (SX-94)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 70448,
+        "Y": 320451,
+        "Z": 5000
+      },
+      "name": "SC: Whining Aix's Mire (SX-98)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 79189,
+        "Y": 318032,
+        "Z": 4500
+      },
+      "name": "SC: Whining Aix's Mire (SX-97)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 89696,
+        "Y": 312936,
+        "Z": 4000
+      },
+      "name": "SC: Whining Aix's Mire (SX-100)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 72773,
+        "Y": 296970,
+        "Z": 4300
+      },
+      "name": "SC: Whining Aix's Mire (SX-101)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 56369,
+        "Y": 264719,
+        "Z": 3000
+      },
+      "name": "SC: Whining Aix's Mire (SX-89)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 42957,
+        "Y": 251011,
+        "Z": 5000
+      },
+      "name": "SC: Whining Aix's Mire (SX-83)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 36554,
+        "Y": 256647,
+        "Z": 5000
+      },
+      "name": "SC: Whining Aix's Mire (SX-84)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 29070,
+        "Y": 268901,
+        "Z": 10000
+      },
+      "name": "SC: Whining Aix's Mire (SX-85)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 45107,
+        "Y": 283853,
+        "Z": 6000
+      },
+      "name": "SC: Whining Aix's Mire (SX-87)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 75820,
+        "Y": 336978,
+        "Z": 6000
+      },
+      "name": "SC: Whining Aix's Mire (SX-95)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 88003,
+        "Y": 348737,
+        "Z": 3200
+      },
+      "name": "SC: Whining Aix's Mire (SX-96)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 115636,
+        "Y": 277753,
+        "Z": 9500
+      },
+      "name": "SC: Whining Aix's Mire (SX-102)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 68823,
+        "Y": 240141,
+        "Z": 4000
+      },
+      "name": "SC: Whining Aix's Mire (SX-82)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 62494,
+        "Y": 239813,
+        "Z": 4000
+      },
+      "name": "SC: Whining Aix's Mire (SX-81)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -10657,
+        "Y": 279136,
+        "Z": 21500
+      },
+      "name": "SC: Dim Forest (SX-105)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -12593,
+        "Y": 295751,
+        "Z": 8000
+      },
+      "name": "SC: Dim Forest (SX-106)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -54626,
+        "Y": 222025,
+        "Z": 8200
+      },
+      "name": "SC: Tiger's Maw (SX-3)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -71413,
+        "Y": 224788,
+        "Z": 9000
+      },
+      "name": "SC: Port City of Guixu (SX-78)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -99805,
+        "Y": 231423,
+        "Z": 4000
+      },
+      "name": "SC: Port City of Guixu (SX-73)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -113004,
+        "Y": 216541,
+        "Z": 4500
+      },
+      "name": "SC: Port City of Guixu (SX-72)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -127914,
+        "Y": 214092,
+        "Z": 3000
+      },
+      "name": "SC: Port City of Guixu (SX-69)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -130655,
+        "Y": 217043,
+        "Z": 500
+      },
+      "name": "SC: Port City of Guixu (SX-70)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -125218,
+        "Y": 204278,
+        "Z": 1100
+      },
+      "name": "SC: Port City of Guixu (SX-67)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -126193,
+        "Y": 192478,
+        "Z": 6000
+      },
+      "name": "SC: Port City of Guixu (SX-61)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -135890,
+        "Y": 190852,
+        "Z": 400
+      },
+      "name": "SC: Port City of Guixu (SX-60)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -140155,
+        "Y": 196686,
+        "Z": 1200
+      },
+      "name": "SC: Port City of Guixu (SX-64)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -146814,
+        "Y": 197435,
+        "Z": 6400
+      },
+      "name": "SC: Port City of Guixu (SX-65)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -143668,
+        "Y": 182929,
+        "Z": 1900
+      },
+      "name": "SC: Port City of Guixu (SX-59)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -149874,
+        "Y": 165034,
+        "Z": 8600
+      },
+      "name": "SC: Port City of Guixu (SX-57)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -142442,
+        "Y": 143695,
+        "Z": 3300
+      },
+      "name": "SC: Port City of Guixu (SX-49)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -124784,
+        "Y": 172590,
+        "Z": 8000
+      },
+      "name": "SC: Port City of Guixu (SX-58)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -116302,
+        "Y": 192353,
+        "Z": -900
+      },
+      "name": "SC: Port City of Guixu (SX-68)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -105362,
+        "Y": 199830,
+        "Z": 9000
+      },
+      "name": "SC: Port City of Guixu (SX-63)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -97366,
+        "Y": 188657,
+        "Z": 6400
+      },
+      "name": "SC: Port City of Guixu (SX-62)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -108292,
+        "Y": 151540,
+        "Z": 4000
+      },
+      "name": "SC: Central Plains (SX-50)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -92732,
+        "Y": 114233,
+        "Z": 6900
+      },
+      "name": "SC: Central Plains (SX-47)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -98602,
+        "Y": 100561,
+        "Z": 10000
+      },
+      "name": "SC: Central Plains (SX-54)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -82511,
+        "Y": 98770,
+        "Z": 4400
+      },
+      "name": "SC: Central Plains (SX-128)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -76374,
+        "Y": 83765,
+        "Z": 4400
+      },
+      "name": "SC: Central Plains (SX-56)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -128899,
+        "Y": 62689,
+        "Z": 15000
+      },
+      "name": "SC: Gorges of Spirits (SX-1)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -129671,
+        "Y": 61818,
+        "Z": 13000
+      },
+      "name": "SC: Gorges of Spirits (SX-2)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -132403,
+        "Y": 109585,
+        "Z": 26000
+      },
+      "name": "SC: Central Plains (SX-48)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -140950,
+        "Y": 226122,
+        "Z": 3500
+      },
+      "name": "SC: Port City of Guixu (SX-71)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 16993,
+        "Y": 82411,
+        "Z": 6000
+      },
+      "name": "SC: Central Plains (SX-52)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 50450,
+        "Y": 82563,
+        "Z": 11700
+      },
+      "name": "SC: Central Plains (SX-51)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 5271,
+        "Y": 49038,
+        "Z": 10000
+      },
+      "name": "SC: Central Plains (SX-46)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 43918,
+        "Y": -34179,
+        "Z": 13300
+      },
+      "name": "SC: Desorock Highlands (SX-10)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 52151,
+        "Y": -57637,
+        "Z": 1800
+      },
+      "name": "SC: Norfall Barrens (SX-119)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -39101,
+        "Y": -73457,
+        "Z": 36000
+      },
+      "name": "SC: Desorock Highlands (SX-5)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 1224,
+        "Y": -44417,
+        "Z": 33867
+      },
+      "name": "SC: Desorock Highlands(Butterfly| SX-11)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -22251,
+        "Y": -18032,
+        "Z": 28260
+      },
+      "name": "SC: Desorock Highlands (Butterfly| SX-9)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -17091,
+        "Y": -11297,
+        "Z": 20295
+      },
+      "name": "SC: Desorock Highlands (Wall| SX-8)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 6961,
+        "Y": -12117,
+        "Z": 401
+      },
+      "name": "SC: Desorock Highlands (Wall| SX-12)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -67430,
+        "Y": -3905,
+        "Z": 21211
+      },
+      "name": "SC: Desorock Highlands(break vases| SX-14)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -71913,
+        "Y": 14632,
+        "Z": 10900
+      },
+      "name": "SC: Central Plains (Jump| SX-53)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -66150,
+        "Y": 68730,
+        "Z": 4700
+      },
+      "name": "SC: Central Plains (Jump| SX-43)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -14425,
+        "Y": 197919,
+        "Z": 7500
+      },
+      "name": "SC: Wuming Bay (Jump| SX-18)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -30983,
+        "Y": 235909,
+        "Z": 10000
+      },
+      "name": "SC: Wuming Bay(Corroder| SX-79)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 11918,
+        "Y": 305007,
+        "Z": 10000
+      },
+      "name": "SC: Whining Aix's Mire (Burn| SX-103)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 24728,
+        "Y": 280389,
+        "Z": 2600
+      },
+      "name": "SC: Whining Aix's Mire (Thorns| SX-86)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 87860,
+        "Y": 323925,
+        "Z": 3300
+      },
+      "name": "SC: Whining Aix's Mire (Jump| SX-99)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 59086,
+        "Y": 274034,
+        "Z": 4449.89013671875
+      },
+      "name": "SC: Whining Aix's Mire (Jump| SX-88)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 45517,
+        "Y": 296412,
+        "Z": -970
+      },
+      "name": "SC: Whining Aix's Mire (Unlock| SX-90)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 98758,
+        "Y": 243423,
+        "Z": 5500
+      },
+      "name": "SC: Whining Aix's Mire (Jump| SX-80)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -161462,
+        "Y": 203836,
+        "Z": 1700
+      },
+      "name": "SC: Port City of Guixu (Jump| SX-66)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    }
+  ],
+  "cutscene_skip": true,
+  "dmg_multiplier_amount": 100,
+  "dmg_multiplier_enabled": true,
+  "dmg_multiplier_keybind": 0,
+  "esp_enabled": false,
+  "esp_hide_completed": false,
+  "esp_selected_items": [
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "fly_enabled": false,
+  "fly_keybind": 0,
+  "god_mode_enabled": true,
+  "god_mode_keybind": 0,
+  "horizontal_fly_speed": 15.2,
+  "infinite_stamina": true,
+  "kill_aura_attacks": 3,
+  "kill_aura_enabled": true,
+  "kill_aura_range": 110,
+  "kill_aura_targets": [
+    true,
+    true,
+    true
+  ],
+  "menu_keybind": 45,
+  "move_speed": 100,
+  "move_speed_enabled": true,
+  "no_clip": false,
+  "no_fall": false,
+  "no_skill_cooldown": true,
+  "unlock_fps": false,
+  "vertical_fly_speed": 15.2
+}

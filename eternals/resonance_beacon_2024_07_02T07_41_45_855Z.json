@@ -1,0 +1,1473 @@
+{
+  "auto_pickup": true,
+  "auto_pickup_items": [
+    true,
+    true,
+    false,
+    true,
+    true
+  ],
+  "auto_pickup_range": 110,
+  "auto_puzzle": true,
+  "autofarm_events": [
+    {
+      "type": 0,
+      "value": {
+        "X": -60949,
+        "Y": 106767,
+        "Z": 375
+      },
+      "name": "B: Jinzhou (XXXB-52)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -43144,
+        "Y": 114177,
+        "Z": 4641
+      },
+      "name": "B: Jinzhou (XXXB-51)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -42358,
+        "Y": 128321,
+        "Z": 3188
+      },
+      "name": "B: Jinzhou (XXXB-50)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -25466,
+        "Y": 147438,
+        "Z": 21441
+      },
+      "name": "B: Jinzhou (XXXB-47)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -20715,
+        "Y": 140125,
+        "Z": 32725
+      },
+      "name": "B: Jinzhou (XXXB-48)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -12527,
+        "Y": 125010,
+        "Z": 15849
+      },
+      "name": "B: Jinzhou (XXXB-49)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -29430,
+        "Y": 99416,
+        "Z": 2686
+      },
+      "name": "B: Jinzhou (XXXB-53)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -12388,
+        "Y": 73213,
+        "Z": 1430
+      },
+      "name": "B: Central Plains (XXXB-55)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -8897,
+        "Y": 46169,
+        "Z": 6829
+      },
+      "name": "B: Central Plains (XXXB-56)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -17159,
+        "Y": 21705,
+        "Z": 3833
+      },
+      "name": "B: Central Plains (XXXB-58)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -38503,
+        "Y": 44230,
+        "Z": 7289
+      },
+      "name": "B: Central Plains (XXXB-57)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -82085,
+        "Y": 28810,
+        "Z": 11043
+      },
+      "name": "B: Central Plains (XXXB-8)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -87248,
+        "Y": 43432,
+        "Z": 10086
+      },
+      "name": "B: Central Plains (XXXB-9)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -112387,
+        "Y": 44102,
+        "Z": 7021
+      },
+      "name": "B: Central Plains (XXXB-10)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -121911,
+        "Y": 70581,
+        "Z": 12224
+      },
+      "name": "B: Gorges of Spirits (XXXB-11)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -135661,
+        "Y": 74583,
+        "Z": 11441
+      },
+      "name": "B: Gorges of Spirits (XXXB-12)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -100109,
+        "Y": 93382,
+        "Z": 4111
+      },
+      "name": "B: Central Plains (XXXB-14)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -124390,
+        "Y": 116480,
+        "Z": 11440
+      },
+      "name": "B: Central Plains (XXXB-68)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -96734,
+        "Y": 140622,
+        "Z": 588
+      },
+      "name": "B: Central Plains (XXXB-16)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -75540,
+        "Y": 127305,
+        "Z": 4956
+      },
+      "name": "B: Central Plains (XXXB-15)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -43702,
+        "Y": 181383,
+        "Z": -10942
+      },
+      "name": "B: Tiger's Maw (XXXB-46)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -28748,
+        "Y": 189317,
+        "Z": 1473
+      },
+      "name": "B: Tiger's Maw (XXXB-44)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -17750,
+        "Y": 194060,
+        "Z": -1430
+      },
+      "name": "B: Wuming Bay (XXXB-64)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -21470,
+        "Y": 186030,
+        "Z": -17887
+      },
+      "name": "B: Tiger's Maw (XXXB-43)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -31087,
+        "Y": 211825,
+        "Z": 2257
+      },
+      "name": "B: Tiger's Maw (XXXB-41)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -8783,
+        "Y": 208923,
+        "Z": 6712
+      },
+      "name": "B: Wuming Bay (XXXB-42)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -8050,
+        "Y": 169080,
+        "Z": 8870
+      },
+      "name": "B: Wuming Bay (XXXB-69)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -2533,
+        "Y": 231212,
+        "Z": 1545
+      },
+      "name": "B: Wuming Bay (XXXB-65)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -19410,
+        "Y": 258970,
+        "Z": 8230
+      },
+      "name": "B: Wuming Bay (XXXB-31)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -14060,
+        "Y": 278916,
+        "Z": 20020
+      },
+      "name": "B: Dim Forest (XXXB-66)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -7697,
+        "Y": 295895,
+        "Z": 7333
+      },
+      "name": "B: Dim Forest (XXXB-28)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -2534,
+        "Y": 314621,
+        "Z": 3265
+      },
+      "name": "B: Dim Forest (XXXB-27)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -33120,
+        "Y": 313748,
+        "Z": 6643
+      },
+      "name": "B: Dim Forest (XXXB-26)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -49425,
+        "Y": 294513,
+        "Z": 4553
+      },
+      "name": "B: Dim Forest (XXXB-25)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -44796,
+        "Y": 279393,
+        "Z": 8150
+      },
+      "name": "B: Dim Forest (XXXB-24)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -62055,
+        "Y": 250546,
+        "Z": 16873
+      },
+      "name": "B: Port City of Guixu (XXXB-23)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -63815,
+        "Y": 229896,
+        "Z": 9371
+      },
+      "name": "B: Port City of Guixu (XXXB-22)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -101707,
+        "Y": 178796,
+        "Z": 5331
+      },
+      "name": "B: Port City of Guixu (XXXB-18)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -136445,
+        "Y": 170532,
+        "Z": 2101
+      },
+      "name": "B: Port City of Guixu (XXXB-17)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -134578,
+        "Y": 211508,
+        "Z": 3325
+      },
+      "name": "B: Port City of Guixu (XXXB-19)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -116020,
+        "Y": 213081,
+        "Z": 551
+      },
+      "name": "B: Port City of Guixu (XXXB-20)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -104802,
+        "Y": 230612,
+        "Z": 3105
+      },
+      "name": "B: Port City of Guixu (XXXB-21)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -92980,
+        "Y": 255830,
+        "Z": 7471
+      },
+      "name": "B: Port City of Guixu (XXXB-67)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 13434,
+        "Y": 262923,
+        "Z": 3163
+      },
+      "name": "B: Wuming Bay (XXXB-32)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 19908,
+        "Y": 290162,
+        "Z": 2970
+      },
+      "name": "B: Whining Aix's Mire (XXXB-30)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 31982,
+        "Y": 310565,
+        "Z": 2825
+      },
+      "name": "B: Whining Aix's Mire (XXXB-29)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 54787,
+        "Y": 322866,
+        "Z": 2012
+      },
+      "name": "B: Whining Aix's Mire (XXXB-37)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 72018,
+        "Y": 300797,
+        "Z": 1714
+      },
+      "name": "B: Whining Aix's Mire (XXXB-35)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 85890,
+        "Y": 319209,
+        "Z": 3620
+      },
+      "name": "B: Whining Aix's Mire (XXXB-38)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 105537,
+        "Y": 284173,
+        "Z": 4241
+      },
+      "name": "B: Whining Aix's Mire (XXXB-39)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 75220,
+        "Y": 275940,
+        "Z": 4527
+      },
+      "name": "B: Whining Aix's Mire (XXXB-36)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 85217,
+        "Y": 256184,
+        "Z": 7979
+      },
+      "name": "B: Whining Aix's Mire(unlock!) (XXXB-40)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 41172,
+        "Y": 247914,
+        "Z": 7547
+      },
+      "name": "B: Whining Aix's Mire (XXXB-33)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 52904,
+        "Y": 285458,
+        "Z": 4611
+      },
+      "name": "B: Whining Aix's Mire (XXXB-34)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -44163,
+        "Y": 69001,
+        "Z": 2515
+      },
+      "name": "B: Central Plains (XXXB-54)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -69305,
+        "Y": 66707,
+        "Z": 6403
+      },
+      "name": "B: Central Plains (XXXB-13)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -19949,
+        "Y": -6767,
+        "Z": 21112
+      },
+      "name": "B: Desorock Highland (XXXB-6)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -4615,
+        "Y": -30582,
+        "Z": 23164
+      },
+      "name": "B: Desorock Highland (XXXB-4)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 23631,
+        "Y": -25354,
+        "Z": 4487
+      },
+      "name": "B: Desorock Highland (XXXB-5)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 38212,
+        "Y": -64539,
+        "Z": 576
+      },
+      "name": "B: Norfall Barrens (XXXB-61)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 46249,
+        "Y": -89070,
+        "Z": 711
+      },
+      "name": "B: Norfall Barrens (XXXB-60)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 45257,
+        "Y": -115249,
+        "Z": 299
+      },
+      "name": "B: Norfall Barrens (XXXB-63)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 79246,
+        "Y": -75905,
+        "Z": 394
+      },
+      "name": "B: Norfall Barrens (XXXB-62)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 1297,
+        "Y": -75773,
+        "Z": 19594
+      },
+      "name": "B: Norfall Barrens (XXXB-59)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -32282,
+        "Y": -60920,
+        "Z": 31615
+      },
+      "name": "B: Desorock Highland (XXXB-2)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -56425,
+        "Y": -55988,
+        "Z": 35232
+      },
+      "name": "B: Desorock Highland (XXXB-1)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -45208,
+        "Y": -26958,
+        "Z": 25103
+      },
+      "name": "B: Desorock Highland (XXXB-3)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -73581,
+        "Y": -2398,
+        "Z": 20410
+      },
+      "name": "B: Desorock Highland (XXXB-7)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -48911,
+        "Y": 100481,
+        "Z": 1498
+      },
+      "name": "N: Jinzhou (ZSXB-6)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -54850,
+        "Y": 29564,
+        "Z": 7085
+      },
+      "name": "N: Central Plains (ZSXB-4)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -129793,
+        "Y": 43035,
+        "Z": 15540
+      },
+      "name": "N: Gorges of Spirits (ZSXB-3)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -51809,
+        "Y": 170644,
+        "Z": 1030
+      },
+      "name": "N: Tiger's Maw (ZSXB-7)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 4280,
+        "Y": 191195,
+        "Z": 4720
+      },
+      "name": "N: Wuming Bay (ZSXB-8)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -83658,
+        "Y": 201717,
+        "Z": 9332
+      },
+      "name": "N: Port City of Guixu (ZSXB-2)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -78440,
+        "Y": 291350,
+        "Z": 6463
+      },
+      "name": "N: Dim Forest (ZSXB-1)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 29507,
+        "Y": 276220,
+        "Z": 3011
+      },
+      "name": "N: Whining Aix's Mire (ZSXB-10)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 68197,
+        "Y": 245897,
+        "Z": 1196
+      },
+      "name": "N: Whining Aix's Mire (ZSXB-11)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 27930,
+        "Y": 78720,
+        "Z": 76
+      },
+      "name": "N: Central Plains (ZSXB-9)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -44674,
+        "Y": 5179,
+        "Z": 17162
+      },
+      "name": "N: Desorock Highland (ZSXB-5)"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    }
+  ],
+  "cutscene_skip": true,
+  "dmg_multiplier_amount": 100,
+  "dmg_multiplier_enabled": true,
+  "dmg_multiplier_keybind": 0,
+  "esp_enabled": false,
+  "esp_hide_completed": false,
+  "esp_selected_items": [
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "fly_enabled": false,
+  "fly_keybind": 0,
+  "god_mode_enabled": true,
+  "god_mode_keybind": 0,
+  "horizontal_fly_speed": 15.2,
+  "infinite_stamina": true,
+  "kill_aura_attacks": 3,
+  "kill_aura_enabled": true,
+  "kill_aura_range": 110,
+  "kill_aura_targets": [
+    true,
+    true,
+    true
+  ],
+  "menu_keybind": 45,
+  "move_speed": 100,
+  "move_speed_enabled": true,
+  "no_clip": false,
+  "no_fall": false,
+  "no_skill_cooldown": true,
+  "unlock_fps": false,
+  "vertical_fly_speed": 15.2
+}

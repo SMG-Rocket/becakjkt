@@ -1,0 +1,789 @@
+{
+  "auto_pickup": true,
+  "auto_pickup_items": [
+    true,
+    true,
+    false,
+    true,
+    true
+  ],
+  "auto_pickup_range": 110,
+  "auto_puzzle": true,
+  "autofarm_events": [
+    {
+      "type": 0,
+      "value": {
+        "X": 74188,
+        "Y": -122984,
+        "Z": 74
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 70252,
+        "Y": -111456,
+        "Z": 445
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 83860,
+        "Y": -81062,
+        "Z": 353
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 52983,
+        "Y": -110513,
+        "Z": 1079
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 56643,
+        "Y": -101690,
+        "Z": 199
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -3803,
+        "Y": -43446,
+        "Z": 24855
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 7234,
+        "Y": -22409,
+        "Z": 10059
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -36508,
+        "Y": 6473,
+        "Z": 17269
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -76148,
+        "Y": 2306,
+        "Z": 17775
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -61560,
+        "Y": 16350,
+        "Z": 10156
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -12344,
+        "Y": 28673,
+        "Z": 2861
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -8331,
+        "Y": 61847,
+        "Z": 357
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -59242,
+        "Y": 68941,
+        "Z": 4356
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -84140,
+        "Y": 53470,
+        "Z": 12448
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -128664,
+        "Y": 36480,
+        "Z": 15083
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -133875,
+        "Y": 78493,
+        "Z": 4902
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -99343,
+        "Y": 101909,
+        "Z": 7360
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -72756,
+        "Y": 124910,
+        "Z": 5401
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 11648,
+        "Y": 120165,
+        "Z": 448
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -55863,
+        "Y": 173819,
+        "Z": 5515
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -78378,
+        "Y": 179383,
+        "Z": 6342
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -110530,
+        "Y": 158794,
+        "Z": 959
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -80138,
+        "Y": 199505,
+        "Z": 8394
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -53951,
+        "Y": 216182,
+        "Z": 8829
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -107307,
+        "Y": 228506,
+        "Z": 2599
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -84099,
+        "Y": 237958,
+        "Z": 6970
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -65707,
+        "Y": 242279,
+        "Z": 12536
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -101905,
+        "Y": 249836,
+        "Z": 6460
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -69468,
+        "Y": 261832,
+        "Z": 6638
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -40309,
+        "Y": 327272,
+        "Z": 1183
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -21168,
+        "Y": 307288,
+        "Z": 7749
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": -1058,
+        "Y": 304285,
+        "Z": 5347
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 12534,
+        "Y": 272115,
+        "Z": 5528
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 536,
+        "Y": 290508,
+        "Z": 6431
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 35251,
+        "Y": 228023,
+        "Z": 40
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 103352,
+        "Y": 256888,
+        "Z": 5847
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 59623,
+        "Y": 279010,
+        "Z": 4219
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 38360,
+        "Y": 289017,
+        "Z": 182
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 41306,
+        "Y": 295829,
+        "Z": -871
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 90982,
+        "Y": 316411,
+        "Z": 403
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    },
+    {
+      "type": 0,
+      "value": {
+        "X": 40394,
+        "Y": 324780,
+        "Z": 3744
+      },
+      "name": "Blobfly"
+    },
+    {
+      "type": 1,
+      "value": {
+        "X": 20000,
+        "Y": 0,
+        "Z": 0
+      },
+      "name": "wait"
+    }
+  ],
+  "cutscene_skip": true,
+  "dmg_multiplier_amount": 100,
+  "dmg_multiplier_enabled": true,
+  "dmg_multiplier_keybind": 0,
+  "esp_enabled": false,
+  "esp_hide_completed": false,
+  "esp_selected_items": [
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "fly_enabled": false,
+  "fly_keybind": 0,
+  "god_mode_enabled": true,
+  "god_mode_keybind": 0,
+  "horizontal_fly_speed": 15.2,
+  "infinite_stamina": true,
+  "kill_aura_attacks": 3,
+  "kill_aura_enabled": true,
+  "kill_aura_range": 110,
+  "kill_aura_targets": [
+    true,
+    true,
+    true
+  ],
+  "menu_keybind": 45,
+  "move_speed": 100,
+  "move_speed_enabled": true,
+  "no_clip": false,
+  "no_fall": false,
+  "no_skill_cooldown": true,
+  "unlock_fps": false,
+  "vertical_fly_speed": 15.2
+}
