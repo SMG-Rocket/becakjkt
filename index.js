@@ -13,14 +13,17 @@ function loadJsonFile(filePath) {
 }
 
 // Function to save JSON data to a new file with a timestamp in the {basedir}/eternals/ directory
-function saveJsonFile(baseDir, originalFilePath, data) {
-    const timestamp = new Date().toISOString().replace(/[:.-]/g, '_');
-    const fileName = path.basename(originalFilePath).replace('.json', `_${timestamp}.json`);
-    const newFilePath = path.join(baseDir, 'eternals', fileName);
+function saveJsonFile(baseDir, originalFilePath, data, timestamp) {
+    const fileName = path.basename(originalFilePath);
+    const newFilePath = path.join(baseDir, `eternals/${timestamp}`, fileName);
 
     // Ensure the 'eternals' directory exists
     if (!fs.existsSync(path.join(baseDir, 'eternals'))) {
         fs.mkdirSync(path.join(baseDir, 'eternals'));
+    }
+
+    if (!fs.existsSync(path.join(baseDir, `eternals/${timestamp}`))) {
+        fs.mkdirSync(path.join(baseDir, `eternals/${timestamp}`));
     }
 
     fs.writeFileSync(newFilePath, JSON.stringify(data, null, 2));
@@ -76,13 +79,14 @@ function manipulateJsonData(jsonData) {
 
 // Function to process all JSON files in a directory
 function processJsonFiles(baseDir, directoryPath) {
+    const timestamp = new Date().toISOString().replace(/[:.-]/g, '_');
     fs.readdirSync(directoryPath).forEach(file => {
         const filePath = path.join(directoryPath, file);
         if (path.extname(file) === '.json') {
             const jsonData = loadJsonFile(filePath);
             if (jsonData) {
                 const manipulatedData = manipulateJsonData(jsonData);
-                saveJsonFile(baseDir, filePath, manipulatedData);
+                saveJsonFile(baseDir, filePath, manipulatedData, timestamp);
             }
         }
     });
